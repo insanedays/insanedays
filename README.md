@@ -1,16 +1,18 @@
+<img src="https://cdn-ikplgjj.nitrocdn.com/UybapakaRoJtWweIYTWThuckoZDJqqFc/assets/images/optimized/rev-9ad2753/device-insight.com/wp-content/uploads/2023/12/Datenstrategie.jpg" >
 
-# Amandha Nery
 
-## Sobre mim
+### Oi, me chamo Amandha. 
+Sou Analista de Dados com experiência em times técnicos e agora atuo mais próxima ao negócio, conectando as análises com as necessidades reais da empresa. Comecei minha carreira focada em desenvolver skills mais técnicas em dados, mas optei por mudar para uma área onde eu pudesse ver o impacto direto do meu trabalho.
 
-Sou Analista de Dados com 5 anos de experiência, já tendo atuado em times técnicos, onde desenvolvi habilidades em ferramentas e metodologias de análise e processamento de dados. Atualmente, faço parte de um time mais próximo do negócio, focando na entrega de valor direto para os clientes e stakeholders.
-Optei por essa mudança para estar presente na entrega de resultados e decisões que impactam o negócio. Hoje, meu trabalho envolve transformar dados em estratégias acionáveis, auxiliando diretamente nas tomadas de decisão. Uso uma abordagem data-driven para identificar oportunidades de otimização e crescimento, traduzindo insights técnicos em soluções práticas que geram impacto real para o negócio.
+Hoje, meu foco é transformar dados em insights que ajudem a nortear as decisões estratégicas. Sempre quis poder estar próxima para ver o valor/resultados das entrega de dados, poder colaborar com os times de ponta para trazer soluções práticas e acionáveis. Me empenho em alinhar os dados com os objetivos da empresa (Data-driven), tornando as análises mais acessíveis e úteis para todos os colaboradores no dia a dia. 
 
 ## Contatos:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandhanery/)
 <a href="mailto:neryamandha@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Stack
+
+#### Experiência com:
 <div style="display: inline-block;">
     <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="50" height="50">
     <img src="https://img.icons8.com/color/200/amazon-web-services.png" width="50" height="50">
@@ -23,7 +25,7 @@ Optei por essa mudança para estar presente na entrega de resultados e decisões
     <img src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" width="50" height="50">
 </div>
 
-## Estudando
+#### Me atualizando em:
 <div style="display: inline-block;">
     <img src="https://cdn-icons-png.flaticon.com/512/6432/6432461.png" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="60" height="50">
