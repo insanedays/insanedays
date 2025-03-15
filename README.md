@@ -4,7 +4,7 @@
 ### Oi, me chamo Amandha. 
 Sou Analista de Dados com experiência em times técnicos e agora atuo mais próxima ao negócio, conectando as análises com as necessidades reais da empresa. Comecei minha carreira focada em desenvolver skills mais técnicas em dados, mas optei por mudar para uma área onde eu pudesse ver o impacto direto do meu trabalho.
 
-Hoje, meu foco é transformar dados em insights que ajudem a nortear as decisões estratégicas. Sempre quis poder estar próxima para ver o valor/resultados das entrega de dados, poder colaborar com os times de ponta para trazer soluções práticas e acionáveis. Me empenho em alinhar os dados com os objetivos da empresa (Data-driven), tornando as análises mais acessíveis e úteis para todos os colaboradores no dia a dia. 
+Hoje, meu foco é transformar dados em insights que ajudem a nortear as decisões estratégicas atavés de data products. 
 
 ## Contatos:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandhanery/)
