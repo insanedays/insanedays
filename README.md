@@ -1,4 +1,4 @@
-<img src="[https://cdn-ikplgjj.nitrocdn.com/UybapakaRoJtWweIYTWThuckoZDJqqFc/assets/images/optimized/rev-9ad2753/device-insight.com/wp-content/uploads/2023/12/Datenstrategie.jpg](https://www.kuka.com/-/media/kuka-corporate/images/iimagazine/2024/january/datenstrategie-data-driven-enterprise/device-insight-post.jpg?rev=-1&w=1900&hash=B678ACD0A2B5E2C5058760927984A756" >
+<img src="https://cdn-ikplgjj.nitrocdn.com/UybapakaRoJtWweIYTWThuckoZDJqqFc/assets/images/optimized/rev-9ad2753/device-insight.com/wp-content/uploads/2023/12/Datenstrategie.jpg](https://www.kuka.com/-/media/kuka-corporate/images/iimagazine/2024/january/datenstrategie-data-driven-enterprise/device-insight-post.jpg?rev=-1&w=1900&hash=B678ACD0A2B5E2C5058760927984A756" >
 
 
 ### Oi, me chamo Amandha. 
