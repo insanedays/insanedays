@@ -2,7 +2,7 @@
 
 
 ### Oi, me chamo Amandha. 
-Hoje, meu foco é transformar dados em insights que orientem decisões estratégicas por meio de data products.
+Hoje, meu foco é transformar dados em insights que orientem decisões
 
 ## Contatos:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandhanery/)
